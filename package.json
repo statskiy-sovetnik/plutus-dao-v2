@@ -1,0 +1,27 @@
+{
+  "name": "plutus-dao-v2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/statskiy-sovetnik/plutus-dao-v2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/statskiy-sovetnik/plutus-dao-v2/issues"
+  },
+  "homepage": "https://github.com/statskiy-sovetnik/plutus-dao-v2#readme",
+  "description": "",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.5"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.2",
+    "@openzeppelin/contracts-upgradeable": "^5.0.2"
+  }
+}
